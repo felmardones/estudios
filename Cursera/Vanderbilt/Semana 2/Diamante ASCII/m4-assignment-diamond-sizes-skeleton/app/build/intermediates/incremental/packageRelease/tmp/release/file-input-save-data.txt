@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 16 18:44:06 BOT 2019
+0.baseType=DIRECTORY
+0.base=/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dexMerger/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

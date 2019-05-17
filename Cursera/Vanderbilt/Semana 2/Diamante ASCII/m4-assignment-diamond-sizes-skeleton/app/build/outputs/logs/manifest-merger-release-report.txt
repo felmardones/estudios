@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/8d0075d74b4ddcca6e74046fc79128fc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/55ecf9447926b3c3bd730a337b14d9d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/c8e988132396145a7b839296c928fec7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/f11512e6ca6043a6ee9018c75beb5e7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e4b8d3a5d2da836496dafc1963ea63cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/f153c7e3c1fa5c768c94ee7e9c975c34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/b940a5aedeb8ffa6f443122e3de0040d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/9e4ea71fc93692990572f232da24b3e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/786f29bb700102bd13cc10258b178242/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/10b4b214f4ae9566fe6c2a8903ab1601/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/857785d67b6a4f5684a97b7b46eff319/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/20bf019dbe88209ec68df8b8e011557f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/4db4faeea2bfaa177980293e9555d022/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/4ab1766e4bc73a0ef5aa32906fbf3043/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/0d0ae6da3fb27570e8b326fee39dd923/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/71d7e8633540cee9211b69fa22089025/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/b2ba970ba7a216dc99751673d6768d90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e4756070038aa3440ffc3eb2ba5be70a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7d745fb17f2ef888b3ece46a4d3e2575/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/39e5ae54ebfb0e534cc881ebd4d3fbe8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7738ffd680548e7c7592d7f3689f4a87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e845c6a6f8767688c0e9a3d8526086af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/78554007a1e711e888b0540e81a9d11d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/cbf7c10f75ee74ff5eec0cbc29ad8669/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/2bfcd0aedb43c3882cee4566e6abecaa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/9737269dd6183d160e44facdb8f7e814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/77df43a867a46879d0774fe1a1cc45f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/0f19c9237940e9500ea46ce9e2f81c59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e7dbe03527b75025f14065e82a2aa7cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/71b4eeefb62638099c36bd5ed6e4d7c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/550a28b36c59bba34b2ffce57da2f7ff/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/8d0075d74b4ddcca6e74046fc79128fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/8d0075d74b4ddcca6e74046fc79128fc/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7d745fb17f2ef888b3ece46a4d3e2575/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7d745fb17f2ef888b3ece46a4d3e2575/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/39e5ae54ebfb0e534cc881ebd4d3fbe8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/39e5ae54ebfb0e534cc881ebd4d3fbe8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7d745fb17f2ef888b3ece46a4d3e2575/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.diamonds.ui.MainActivity
+ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:11:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/8d0075d74b4ddcca6e74046fc79128fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/8d0075d74b4ddcca6e74046fc79128fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/55ecf9447926b3c3bd730a337b14d9d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/55ecf9447926b3c3bd730a337b14d9d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/c8e988132396145a7b839296c928fec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/c8e988132396145a7b839296c928fec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/f11512e6ca6043a6ee9018c75beb5e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/f11512e6ca6043a6ee9018c75beb5e7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e4b8d3a5d2da836496dafc1963ea63cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e4b8d3a5d2da836496dafc1963ea63cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/f153c7e3c1fa5c768c94ee7e9c975c34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/f153c7e3c1fa5c768c94ee7e9c975c34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/b940a5aedeb8ffa6f443122e3de0040d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/b940a5aedeb8ffa6f443122e3de0040d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/9e4ea71fc93692990572f232da24b3e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/9e4ea71fc93692990572f232da24b3e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/786f29bb700102bd13cc10258b178242/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/786f29bb700102bd13cc10258b178242/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/10b4b214f4ae9566fe6c2a8903ab1601/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/10b4b214f4ae9566fe6c2a8903ab1601/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/857785d67b6a4f5684a97b7b46eff319/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/857785d67b6a4f5684a97b7b46eff319/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/20bf019dbe88209ec68df8b8e011557f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/20bf019dbe88209ec68df8b8e011557f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/4db4faeea2bfaa177980293e9555d022/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/felipe/.gradle/caches/transforms-2/files-2.1/4db4faeea2bfaa177980293e9555d022/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/4ab1766e4bc73a0ef5aa32906fbf3043/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/4ab1766e4bc73a0ef5aa32906fbf3043/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/0d0ae6da3fb27570e8b326fee39dd923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/0d0ae6da3fb27570e8b326fee39dd923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/71d7e8633540cee9211b69fa22089025/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/71d7e8633540cee9211b69fa22089025/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/b2ba970ba7a216dc99751673d6768d90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/b2ba970ba7a216dc99751673d6768d90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e4756070038aa3440ffc3eb2ba5be70a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e4756070038aa3440ffc3eb2ba5be70a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7d745fb17f2ef888b3ece46a4d3e2575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7d745fb17f2ef888b3ece46a4d3e2575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/39e5ae54ebfb0e534cc881ebd4d3fbe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/felipe/.gradle/caches/transforms-2/files-2.1/39e5ae54ebfb0e534cc881ebd4d3fbe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7738ffd680548e7c7592d7f3689f4a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/7738ffd680548e7c7592d7f3689f4a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e845c6a6f8767688c0e9a3d8526086af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e845c6a6f8767688c0e9a3d8526086af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/78554007a1e711e888b0540e81a9d11d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/78554007a1e711e888b0540e81a9d11d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/cbf7c10f75ee74ff5eec0cbc29ad8669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/cbf7c10f75ee74ff5eec0cbc29ad8669/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/2bfcd0aedb43c3882cee4566e6abecaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/2bfcd0aedb43c3882cee4566e6abecaa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/9737269dd6183d160e44facdb8f7e814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/9737269dd6183d160e44facdb8f7e814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/77df43a867a46879d0774fe1a1cc45f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/77df43a867a46879d0774fe1a1cc45f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/0f19c9237940e9500ea46ce9e2f81c59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/0f19c9237940e9500ea46ce9e2f81c59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e7dbe03527b75025f14065e82a2aa7cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/e7dbe03527b75025f14065e82a2aa7cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/71b4eeefb62638099c36bd5ed6e4d7c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/71b4eeefb62638099c36bd5ed6e4d7c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/550a28b36c59bba34b2ffce57da2f7ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/felipe/.gradle/caches/transforms-2/files-2.1/550a28b36c59bba34b2ffce57da2f7ff/AndroidManifest.xml:20:5-44
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		ADDED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/src/main/AndroidManifest.xml

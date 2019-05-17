@@ -1,0 +1,4 @@
+#Thu May 16 19:13:07 BOT 2019
+base.0=/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Semana 2/Diamante ASCII/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

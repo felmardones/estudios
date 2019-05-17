@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/anim/abc_slide_in_bottom.xml"
+    }
+]

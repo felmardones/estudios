@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/felipe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_7ec7e2f40286415044d6282210dc426019d26005/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_f9f931fcde337da6399b21c81be4915532b34d71/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_5759eafb6aac92c8561988538655e886974f447f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_1e1ff2b8eaf4173283de53dd2ace979708baae50/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_68e59692b7a16f2fbdccceec5403bbfe7dd6f6c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_c054f39dedbd7dac3630bae9b6376c81ac4a9b88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_945ff147066e9d57956cc087ed5d01a3a6989412/classes.dex" />
+    </item>
+    <item
+        jar="/Users/felipe/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/Users/felipe/Documents/Estudios/Cursera/Vanderbilt/Test Semana 1/_48a675765cc69d4bf6e01e7fe2db0b85_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_764b8a22e8f9dc7019be7ef3f06378a2b9b7fbe3/classes.dex" />
+    </item>
+
+</items>
